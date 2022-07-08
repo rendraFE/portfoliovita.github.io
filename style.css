@@ -1,5 +1,5 @@
 .jumbotron {
-      padding-top: 8.2rem;
+      padding-top: 8rem;
       background-image: url(image/bg-jumbotron.png);
       background-repeat: no-repeat;
       background-size: cover;
@@ -14,5 +14,5 @@
       background-color: #ffe2df;
 }
 section {
-      padding-top: 5rem;
+      padding-top: 4rem;
 }
